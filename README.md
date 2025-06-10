@@ -1,6 +1,7 @@
-# 🤖 Rede Colaborativa – Subnúcleo da Plataforma de IA do Governo Federal
+# 🤖 Subnúcleo da Plataforma de IA do Governo Federal
 
-A **Rede Colaborativa do Subnúcleo da Plataforma de IA do Governo Federal (PIA‑Gov)** é o ponto de encontro para especialistas, gestores públicos, pesquisadores e entusiastas que colaboram no desenvolvimento, na governança e na disseminação de soluções de inteligência artificial no âmbito da Administração Pública Federal.\
+A **Rede Colaborativa do Subnúcleo da Plataforma de IA** é o ponto de encontro para especialistas, gestores públicos, pesquisadores e entusiastas que colaboram no desenvolvimento, na governança e na disseminação de soluções de inteligência artificial no âmbito da **Plataforma de IA do Governo Federal**.
+
 Coordenada pela **Secretaria de Governo Digital (SGD)** do **Ministério da Gestão e da Inovação em Serviços Públicos (MGI)** e integrada ao **Núcleo de IA do Governo Federal**, a rede promove o compartilhamento de conhecimento, boas práticas, normas técnicas, repositórios de código e serviços que compõem a PIA‑Gov.
 
 > *Nossa missão: Democratizar o acesso e o uso responsável de IA no governo, impulsionando transparência, eficiência e inovação nos serviços públicos.*
@@ -11,17 +12,18 @@ Coordenada pela **Secretaria de Governo Digital (SGD)** do **Ministério da Gest
 
 ## 📝 Canais oficiais
 
-| Canal                                                                                              | Descrição                                                            |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Portal da PIA‑Gov](https://www.gov.br/governodigital/pt-br/plataforma-ia)                         | Visão geral da plataforma, casos de uso e materiais de apoio         |
-| [Núcleo de IA do Governo Federal](https://www.gov.br/governodigital/pt-br/inteligencia-artificial) | Diretrizes estratégicas e iniciativas transversais de IA             |
-| [SGD/MGI](https://www.gov.br/governodigital)                                                       | Secretaria responsável pela transformação digital do Governo Federal |
-| [Fórum da Rede Colaborativa (Discourse)](https://discussia.gov.br)                                 | Espaço de debates técnicos, dúvidas e anúncios                       |
-| [Canal no Teams](https://teams.microsoft.com/l/channel/19%3apia-gov)                               | Colaboração síncrona entre equipes                                   |
+| Canal                                                                                                               | Descrição                                                            |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [SGD](https://www.gov.br/governodigital)                                                                        | Secretaria responsável pela transformação digital do Governo Federal |\
+| [IND](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados)  | Infraestrutura Nacional de Dados, ambiente normativo e tecnológico para compartilhamento de dados governamentais |\
+| [PBIA](https://www.gov.br/lncc/pt-br/assuntos/noticias/ultimas-noticias-1/plano-brasileiro-de-inteligencia-artificial-pbia-2024-2028)      | Publicação sobre do Plano Brasileiro de Inteligência Artificial 2024 |
+
 
 ---
 
 ## 📌 Objetivos do Subnúcleo
+
+O Subnúcleo tem como objetivos discutir sobre:
 
 1. **Arquitetura & Padronização**: Consolidar padrões de referência (MLOps, RAG, LLM Fine‑Tuning) e prover guias de implantação em nuvem híbrida (Azure/GovCloud).
 2. **Repositório de Componentes**: Manter modelos, pipelines e módulos reutilizáveis para acelerar MVPs de IA.
